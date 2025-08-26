@@ -36,6 +36,6 @@ Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-mu
 📱 Features:
 
 - Two simple demo screens with smooth navigation using Compose Navigation
-- Shared UI logic written once in Kotlin, running natively on Android & iOS
+- Shared UI logic written once in Compose Multiplatform, running natively on Android & iOS
 - Strong architectural foundation with MVI + Clean Architecture
 - Integration of modern libraries for networking, persistence, DI, and image loading
